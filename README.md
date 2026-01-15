@@ -3,6 +3,10 @@
 
 Welcome to my developer page. I create useful tools and games with heart.
 
+## My page on GooglePlay
+
+* **Dmitrii Fridman** — [GooglePlay](https://play.google.com/store/apps/dev?id=6906200562558857050)
+
 ## My Apps on GooglePlay
 
 * **Task Timer** — [Production](https://play.google.com/store/apps/details?id=com.timeshtamp.tasktimer&pcampaignid=web_share)
