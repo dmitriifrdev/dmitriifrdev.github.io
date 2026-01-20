@@ -27,6 +27,7 @@ Welcome to my developer page. I create useful tools and games with heart.
 - [Google Play](https://play.google.com/store/apps/dev?id=6906200562558857050) — My apps on Google Play
 - [Reddit](https://www.reddit.com/user/DmitriiFr_Dev) — The developer's Reddit page
 - [X (Twitter)](https://twitter.com/DmitriiFri) — X developer page (Twitter)
+- [Other site](https://sites.google.com/view/timeshtamp/home) - My apps on Google Sites
 
 ---
 [Authorized Digital Sellers (app-ads.txt)](app-ads.txt)
