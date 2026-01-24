@@ -19,8 +19,8 @@ Welcome to my developer page. I create useful tools and games with heart.
 
 ## My Apps Privacy Policy
 
-* **Task Timer** — [Privacy Policy](https://sites.google.com/view/dmitriifrdev-tasktimer/home)
-* **Aetherium Unveil** — [Privacy Policy](https://sites.google.com/view/timeshtamp/home/aetherium-unveil)
+* **Task Timer** — [Privacy Policy](https://sites.google.com/view/timeshtamp/home/task-timer/task-timer-privacy-policy?authuser=0)
+* **Aetherium Unveil** — [Privacy Policy](https://sites.google.com/view/timeshtamp/home/aetherium-unveil/aetherium-unveil-privacy-policy?authuser=0)
 
 ## Contacts and social networks
 
